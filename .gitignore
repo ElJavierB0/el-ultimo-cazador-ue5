@@ -1,0 +1,14 @@
+# Unreal Engine 5: archivos generados que no se versionan
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vs/
+.idea/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+.DS_Store
