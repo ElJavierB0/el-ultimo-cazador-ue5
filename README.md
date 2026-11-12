@@ -11,7 +11,7 @@ Planeación en equipo de un videojuego con motor gráfico: **El Último Cazador*
 |---|---|
 | 📦 **Repositorio** | https://github.com/ElJavierB0/el-ultimo-cazador-ue5 |
 | 📋 **Proyecto (tarjetas)** | https://github.com/users/ElJavierB0/projects/3 |
-| 🎮 **Caso práctico (prototipo jugable)** | https://ultca.loopsoftware.com.mx · [código](https://github.com/ElJavierB0/el-ultimo-cazador) |
+| 🎮 **Caso práctico (prototipo jugable)** | https://ultimo.loopsoftware.com.mx · [código](https://github.com/ElJavierB0/el-ultimo-cazador) |
 | 📄 **GDD** | [docs/GDD-El-Ultimo-Cazador-UE5.docx](docs/GDD-El-Ultimo-Cazador-UE5.docx) |
 | 🖥️ **Documento técnico** | [docs/Documento-Tecnico-Hardware-Software.docx](docs/Documento-Tecnico-Hardware-Software.docx) |
 
