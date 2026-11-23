@@ -1,14 +1,10 @@
-# Unreal Engine 5: archivos generados que no se versionan
-Binaries/
-Intermediate/
-Saved/
-DerivedDataCache/
-Build/
-.vs/
-.idea/
-*.sln
-*.VC.db
-*.opensdf
-*.sdf
-*.suo
+# Godot: caché de importación y exportaciones
+.godot/
+builds/
+*.tmp
+export_credentials.cfg
+
+# Sistema y editores
 .DS_Store
+.idea/
+.vscode/
