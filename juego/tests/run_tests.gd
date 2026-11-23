@@ -308,6 +308,9 @@ func _test_keyboard() -> void:
 			break
 		await _frames(1)
 	var battle := level.battle
+	# Vida alta para que un golpe crítico no termine la batalla antes de probar el menú
+	battle.foe._max_hp = 500
+	battle.foe._hp = 500
 	await _wait_menu(battle)
 	var hp := battle.foe.hp()
 	await _key(KEY_ENTER)
