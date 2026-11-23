@@ -11,8 +11,7 @@ Juego de acción y aventura 3D con **desplazamiento lateral (2.5D)** y **batalla
 | 📦 **Repositorio** | https://github.com/ElJavierB0/el-ultimo-cazador-ue5 |
 | 📋 **Proyecto (tarjetas)** | https://github.com/users/ElJavierB0/projects/3 |
 | 🎮 **Caso práctico (prototipo jugable)** | https://ultimo.loopsoftware.com.mx · [código](https://github.com/ElJavierB0/el-ultimo-cazador) |
-| 📘 **Act 2 · Manual de usuario** | [docs/Act2-Manual-de-Usuario.docx](docs/Act2-Manual-de-Usuario.docx) |
-| 🧪 **Act 2 · Reporte de pruebas** | [docs/Act2-Reporte-de-Pruebas-Beta.docx](docs/Act2-Reporte-de-Pruebas-Beta.docx) |
+| 📘 **Act 2 · Portafolio de evidencias** (beta, manual y reporte de pruebas) | [docs/Act2-Portafolio-de-Evidencias.docx](docs/Act2-Portafolio-de-Evidencias.docx) |
 | 📄 **Act 1 · GDD** | [docs/GDD-El-Ultimo-Cazador-UE5.docx](docs/GDD-El-Ultimo-Cazador-UE5.docx) |
 | 🖥️ **Act 1 · Documento técnico** | [docs/Documento-Tecnico-Hardware-Software.docx](docs/Documento-Tecnico-Hardware-Software.docx) |
 
